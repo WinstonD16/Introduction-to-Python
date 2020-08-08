@@ -1,2 +1,2 @@
-# Introduction-to-Java
-Here's some of my code related to java
+# Introduction-to-Python
+Here's some of my code related to Python
