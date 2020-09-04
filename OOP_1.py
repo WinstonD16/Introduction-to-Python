@@ -28,6 +28,7 @@ class Main:
 x=str(input("Please enter your name: "))  
 y=str(input("Please enter your email address: ")) 
 z=str(input("Please enter your student ID: ")) 
+
 z1=int(input("Please enter your tuition fee: ")) 
 
 #Use the inputted variable into a constructor
